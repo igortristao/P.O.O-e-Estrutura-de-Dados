@@ -10,7 +10,7 @@ class HelloApplication {
 
         A = 10;
         B = 9;
-        X = A+B;s
+        X = A+B;
 
         System.out.printf("Resultado: " + X);
         }
