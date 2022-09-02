@@ -1,9 +1,8 @@
 pacote  Atividade ;
+    importar  java . io . PrintStream ;
+    importar  java . útil . Scanner ;
 
-importar  java . io . PrintStream ;
-importar  java . útil . Scanner ;
-
- classe  pública questão 10 {
+     classe  pública questão 10 {
     public  static  void  main ( String [] args ) {
         Scanner  enterScanner = new  Scanner ( System . in );
 
